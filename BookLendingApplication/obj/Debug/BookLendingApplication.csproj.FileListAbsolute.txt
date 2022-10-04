@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\BookLendingApplication\BookLendingApplication\bin\Debug\BookLendingApplication.exe.config
+C:\Users\user\source\repos\BookLendingApplication\BookLendingApplication\bin\Debug\BookLendingApplication.exe
+C:\Users\user\source\repos\BookLendingApplication\BookLendingApplication\obj\Debug\BookLendingApplication.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\BookLendingApplication\BookLendingApplication\obj\Debug\BookLendingApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\BookLendingApplication\BookLendingApplication\obj\Debug\BookLendingApplication.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BookLendingApplication\BookLendingApplication\obj\Debug\BookLendingApplication.exe
+C:\Users\user\source\repos\BookLendingApplication\BookLendingApplication\obj\Debug\BookLendingApplication.pdb
+C:\Users\user\source\repos\BookLendingApplication\BookLendingApplication\bin\Debug\BookLendingApplication.pdb
